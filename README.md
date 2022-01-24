@@ -7,7 +7,7 @@ You're going to build a simple TODO List App, it should allow every [CRUD](https
 
 Most of the operations will be implemented on client-side, others will just have to be mocked using [Mock Service Worker](https://mswjs.io/docs/api/rest).
 
-It is recommended that you use some kind of library that already includes UX friendly components as for example [Ant Design](https://ant.design/docs/react/introduce) / [Material UI](https://mui.com/) do.
+It is recommended that you use some kind of library that already includes UX friendly components as for example [Ant Design](https://ant.design/docs/react/introduce) / [Material UI](https://mui.com/) does.
 
 
 ## Requirements
